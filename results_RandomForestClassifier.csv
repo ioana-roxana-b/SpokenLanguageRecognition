@@ -1,0 +1,24 @@
+Classifier,Accuracy,Precision,Recall,F1 Score
+RandomForestClassifier,0.613636364,0.611774956,0.611914257,0.611831863
+Classifier,Accuracy,Precision,Recall,F1 Score
+RandomForestClassifier,0.613636364,0.611774956,0.611914257,0.611831863
+Classifier,Accuracy,Precision,Recall,F1 Score
+RandomForestClassifier,0.613636364,0.611774956,0.611914257,0.611831863
+Classifier,Accuracy,Precision,Recall,F1 Score
+RandomForestClassifier,0.613636364,0.611774956,0.611914257,0.611831863
+Classifier,Accuracy,Precision,Recall,F1 Score
+RandomForestClassifier,0.613636364,0.611774956,0.611914257,0.611831863
+Classifier,Accuracy,Precision,Recall,F1 Score
+RandomForestClassifier,0.527272727,0.527343595,0.527272727,0.526966233
+Classifier,Accuracy,Precision,Recall,F1 Score
+RandomForestClassifier,0.613636364,0.611774956,0.611914257,0.611831863
+Classifier,Accuracy,Precision,Recall,F1 Score
+RandomForestClassifier,0.613636364,0.611774956,0.611914257,0.611831863
+Classifier,Accuracy,Precision,Recall,F1 Score
+RandomForestClassifier,0.881818182,0.883400538,0.879195746,0.880624426
+Classifier,Accuracy,Precision,Recall,F1 Score
+RandomForestClassifier,0.877272727,0.878258319,0.874958458,0.876144207
+Classifier,Accuracy,Precision,Recall,F1 Score
+RandomForestClassifier,0.872727273,0.875379939,0.869391825,0.871194379
+Classifier,Accuracy,Precision,Recall,F1 Score
+RandomForestClassifier,0.754545455,0.754032258,0.751246261,0.752066116

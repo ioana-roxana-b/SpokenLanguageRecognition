@@ -1,0 +1,10 @@
+Classifier,Accuracy,Precision,Recall,F1 Score
+GradientBoostingClassifier,0.581818182,0.578183046,0.576935859,0.576781532
+Classifier,Accuracy,Precision,Recall,F1 Score
+GradientBoostingClassifier,0.581818182,0.578183046,0.576935859,0.576781532
+Classifier,Accuracy,Precision,Recall,F1 Score
+GradientBoostingClassifier,0.886363636,0.887477998,0.884097707,0.88531871
+Classifier,Accuracy,Precision,Recall,F1 Score
+GradientBoostingClassifier,0.818181818,0.819655522,0.814556331,0.815991971
+Classifier,Accuracy,Precision,Recall,F1 Score
+GradientBoostingClassifier,0.886363636,0.887477998,0.884097707,0.88531871
